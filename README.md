@@ -55,7 +55,7 @@ division = my_calc_engine.dividir(number1,number2)
 
 ## Authors
 
-* **Rodrigo Medeiros** - [cs-rodrigo-medeiros](https://github.com/cs-rodrigo-edeiros)
+* **Rodrigo Medeiros** - [cs-rodrigo-medeiros](https://github.com/cs-rodrigo-medeiros)
 
 ## License
 
